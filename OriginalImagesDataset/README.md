@@ -23,38 +23,7 @@ For training and evaluation purposes, all images were resized to a standardized 
 🔗 **Mendeley Data Repository**  
 [Access Resized Dataset](http://dx.doi.org/10.17632/fgtjn9kjkd.2)
 
----
 
-## Repository Contents
-
-```text
-.
-├── README.md
-├── annotation_guideline/
-├── metadata/
-├── split_generation/
-├── source_code/
-└── supplementary_files/
-```
-
-### Description
-
-- **annotation_guideline/**  
-  Annotation guidelines used during mask generation and expert validation.
-
-- **metadata/**  
-  Dataset metadata and supplementary information.
-
-- **split_generation/**  
-  Source code used to generate training, validation, and testing splits.
-
-- **source_code/**  
-  Scripts used for preprocessing, dataset preparation, and experiments.
-
-- **supplementary_files/**  
-  Additional files supporting dataset documentation.
-
----
 
 ## Citation
 
