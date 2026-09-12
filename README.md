@@ -500,7 +500,7 @@ If you use the PDD2026 dataset in your research, please cite the corresponding d
 
 ### Dataset
 
-**PDD2026: A Pixel-Level Annotated Dataset for Road Pavement Deformation Segmentation**
+**Mulyanto, Agus; Fitri Sari, Riri; Salman, Muhammad; Harwahyu, Ruki (2026), “PDD2026: A Pixel-Level Annotated Dataset for Road Pavement Deformation Segmentation”, Mendeley Data, V2, doi: 10.17632/fgtjn9kjkd.2**
 
 Dataset DOI:
 
