@@ -518,9 +518,24 @@ https://github.com/agusmulyanto/PDD2026
 
 ## 19. License
 
-Please refer to the dataset and repository license information before redistributing the dataset or modifying and redistributing the source code.
+Please review the license terms before using, modifying, or redistributing any materials associated with the PDD2026 dataset.
 
----
+### Dataset License
+
+The dataset files are licensed under the **Creative Commons Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0)** License.
+
+Under this license, users may:
+
+- Share and redistribute the dataset for non-commercial purposes.
+- Adapt, modify, and build upon the dataset for non-commercial research and educational use.
+
+Users must:
+
+- Provide appropriate attribution to the PDD2026 dataset and the associated publication.
+- Indicate if modifications have been made.
+- Refrain from using the dataset for commercial purposes without permission from the authors.
+
+For full license details, please refer to the CC BY-NC 3.0 license documentation.
 
 ## 20. Acknowledgment
 
